@@ -1,0 +1,10 @@
+{
+  "python.pythonPath": "/home/rithwik-laptop/anaconda3/envs/ML/bin/python",
+  "cSpell.words": [
+    "imshow",
+    "pyplot",
+    "xlabel",
+    "ylabel"
+  ],
+  "jupyter.jupyterServerType": "local"
+}
